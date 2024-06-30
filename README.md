@@ -24,6 +24,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshbarvaliyadev&show_icons=true&locale=en&layout=compact" alt="harshbarvaliyadev" /></p>
 
+<h3 align="left">Online Courses</h3>
+<p></p><a href="https://www.udemy.com/certificate/UC-5bcf5e61-4179-4c8a-a823-6bf184171d92/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank" rel="noreferrer"> <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-5bcf5e61-4179-4c8a-a823-6bf184171d92.jpg" alt="c" width="400" height="100"/> </a></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshbarvaliyadev&show_icons=true&locale=en" alt="harshbarvaliyadev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshbarvaliyadev&" alt="harshbarvaliyadev" /></p>
