@@ -24,7 +24,7 @@
 
 
 <h3 align="left">Online Courses</h3>
-<p align="left"><a href="https://www.udemy.com/certificate/UC-5bcf5e61-4179-4c8a-a823-6bf184171d92/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank" rel="noreferrer"> <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-5bcf5e61-4179-4c8a-a823-6bf184171d92.jpg" alt="c" width="600" height="400"/> </a></p>
+<p align="left"><a href="https://www.udemy.com/certificate/UC-5bcf5e61-4179-4c8a-a823-6bf184171d92/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com" target="_blank" rel="noreferrer"> <figure><img src="https://udemy-certificate.s3.amazonaws.com/image/UC-5bcf5e61-4179-4c8a-a823-6bf184171d92.jpg" alt="c" width="700" height="500"/> <figcaption>click on the certificate</figcaption></figure></a></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshbarvaliyadev&show_icons=true&locale=en&layout=compact" alt="harshbarvaliyadev" /></p>
